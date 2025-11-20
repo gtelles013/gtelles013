@@ -1,4 +1,4 @@
-👋 Hello, I'm Gabrielli
+## 👋 Hello, I'm Gabrielli
 💡 Junior Data Science Enthusiast | Career Transition to Tech | Continuous Learner
 
 I am a professional transitioning into the Technology field with a strong focus on Data Science. Currently developing structured skills in Python, SQL, statistics, data analysis, and practical application of analytical techniques through hands-on projects.
